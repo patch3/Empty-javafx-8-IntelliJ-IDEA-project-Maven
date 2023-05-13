@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Empty-javafx-8-IntelliJ-IDEA-project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Empty_javafx_8_IntelliJ_IDEA_project_jar</output-path>
+    <root id="archive" name="Empty-javafx-8-IntelliJ-IDEA-project.jar">
+      <element id="module-output" name="Empty-javafx-8-IntelliJ-IDEA-project" />
+    </root>
+  </artifact>
+</component>
