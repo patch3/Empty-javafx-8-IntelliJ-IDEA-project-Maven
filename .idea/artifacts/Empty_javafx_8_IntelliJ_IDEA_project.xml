@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="javafx" name="JavaFXApp">
-    <output-path>$PROJECT_DIR$/out/artifacts/JavaFXApp</output-path>
+  <artifact type="javafx" name="Empty-javafx-8-IntelliJ-IDEA-project">
+    <output-path>$PROJECT_DIR$/out/artifacts/Empty_javafx_8_IntelliJ_IDEA_project</output-path>
     <properties id="javafx-properties">
       <options>
         <option name="appClass" value="sample.Main" />
@@ -15,7 +15,7 @@
       </options>
     </properties>
     <root id="root">
-      <element id="archive" name="JavaFXApp.jar">
+      <element id="archive" name="Empty_javafx_8_IntelliJ_IDEA_project.jar">
         <element id="module-output" name="Empty-javafx-8-IntelliJ-IDEA-project" />
       </element>
     </root>
